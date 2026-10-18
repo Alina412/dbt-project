@@ -1,0 +1,3 @@
+{%- set variable = "x" -%}
+
+{{variable}}
